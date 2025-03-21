@@ -1,0 +1,23 @@
+{
+  "name": "sit737-2025-prac2p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshakanugula/sit737-2025-prac2p.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varshakanugula/sit737-2025-prac2p/issues"
+  },
+  "homepage": "https://github.com/varshakanugula/sit737-2025-prac2p#readme"
+}
